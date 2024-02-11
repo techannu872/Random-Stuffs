@@ -1,0 +1,40 @@
+h1,h2,p {
+    text-align: center;}
+
+hr {
+        height: 3px;
+        background-color:brown;
+        border-color : brown;
+      }
+
+body{
+    background-image: url(./lazarescu-alexandra-AZJrf0D6Vvo-unsplash.jpg);
+    font-family:sans-serif;
+
+    }
+
+.main{
+    width:300px;
+    background-color:blanchedalmond;
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+    max-width: 500px;
+
+}
+.menuName{
+    font-style: italic;
+}
+.item p {
+    display: inline-block;
+  }
+  
+  .flavor, .dessert {
+    text-align: left;
+    width: 50%;
+  }
+  
+  .price {
+    text-align: right;
+    width: 50%;
+  }

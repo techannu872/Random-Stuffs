@@ -1,0 +1,115 @@
+body {
+    background-image: url(coffee\ 2.0.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+    background-size: 100%;
+}
+
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+.established {
+    font-style: italic;
+}
+
+h1,
+h2,
+p,h3 {
+    text-align: center;
+}
+
+.menu {
+    width: 80%;
+    background-color: rgba(230, 200, 155, 0.808);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+    margin-bottom: 5%;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+h1,
+h2 {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+}
+
+.Sasta{
+    font-style:  italic ;
+    font-size: 20px;
+}
+
+.sasta{
+    font-style: italic ;
+    font-size: 10px;
+}
+
+.menu{
+    border-radius: 5% ;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.flavor,
+.dessert {
+    text-align: left;
+    width: 70%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 14px;
+}
+
+.address {
+    margin-bottom: 5px;
+}
+
+a {
+    color: black;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    color: brown;
+}
+
+a:active {
+    color: brown;
+}
