@@ -1,0 +1,100 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #d3d3d3;
+  }
+  
+  .label {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #c1dddd;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .bold {
+    font-weight: 700;
+  }
+  
+  .divider {
+    height: 2px;
+    background-color: #ccc;
+    margin: 10px 0;
+  }
+  
+  .lg {
+    height: 10px;
+  }
+  
+  .md {
+    height: 5px;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  .calories-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .left-container {
+    flex-grow: 1;
+  }
+  
+  .daily-value {
+    margin-top: 20px;
+  }
+  
+  .indent {
+    margin-left: 20px;
+  }
+  
+  .dbl-indent {
+    margin-left: 40px;
+  }
+  
+  .sm-text {
+    font-size: 14px;
+  }
+  
+  .note {
+    font-style: italic;
+    color: #777;
+    margin-top: 20px;
+  }
+  
+  /* Mesmerizing Colors and Styles (Feel free to adjust) */
+  .label {
+    background-color: #d8c4bf;
+    color: #333;
+  }
+  
+  .header h1 {
+    color: #ff6347; /* Tomato Red */
+  }
+  
+  .divider {
+    background-color: #ff6347;
+  }
+  
+  .calories-info h1 {
+    color: #4caf50; /* Green */
+  }
+  
+  .daily-value p {
+    color: #2196f3; /* Blue */
+  }
+  
+  .note {
+    color: #777;
+  }
+  
